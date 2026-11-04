@@ -1,0 +1,8 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "visibility-probe-20261104",
+  "version": "0.0.1",
+  "description": "Synthetic fixture for plugin packaging and synchronization tests.",
+  "license": "MIT",
+  "keywords": ["fixture", "testing"]
+}
